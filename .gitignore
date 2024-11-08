@@ -12,17 +12,10 @@ target/
 *.iml
 *.ipr
 
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
 # ignore all logs
 *.log
 
 # Ignore Maven project files
-pom.xml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
