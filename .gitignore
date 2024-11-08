@@ -36,3 +36,19 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# ignore all logs
+*.log
+
+# Ignore Maven project files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Other common directories to ignore
+logs/
+temp/
